@@ -1,7 +1,6 @@
 $LOAD_PATH.unshift(File.dirname(__FILE__)) unless $LOAD_PATH.include?(File.dirname(__FILE__))
 
 require 'zlib'
-require 'curb'
 require 'sax-machine'
 require 'loofah'
 require 'uri'
