@@ -39,7 +39,6 @@ Gem::Specification.new do |s|
     "spec/feedzirra/parser/rss_entry_spec.rb",
     "spec/feedzirra/feed_utilities_spec.rb",
     "spec/feedzirra/feed_entry_utilities_spec.rb"]
-  s.has_rdoc = true
   s.homepage = %q{http://github.com/pauldix/feedzirra}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
